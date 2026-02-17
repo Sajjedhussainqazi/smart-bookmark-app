@@ -4,7 +4,7 @@ A modern real-time bookmark manager built using Next.js, Supabase, and Tailwind 
 
 ## Live Demo
 
-https://smart-bookmark-app.vercel.app
+https://smart-bookmark-app-nine-sage.vercel.app/
 
 ## Features
 
