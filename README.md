@@ -61,3 +61,4 @@ Added environment variables in Vercel project settings and redeployed.
 ## Author
 
 Sajjed Hussain Qazi
+sajjedhussainqazi@gmail.com
